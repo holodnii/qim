@@ -2,9 +2,6 @@ import numpy as np
 from PIL import Image
 import bitarray
 
-# GLOBALS
-# C:\Users\holod\Downloads\cat1.png
-# C:\Users\holod\Downloads\EML-NET-Saliency-master\EML-NET-Saliency-master\encoded_image.png
 q = 6
 msg_bit_len = 24 # "hii" bit-len
 
